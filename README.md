@@ -1,6 +1,6 @@
 # DAM Result Card
 
-A small Next.js app that renders a DAM-style trust verification result card for a suspicious claim. It simulates a short loading state and then shows the verdict, risk signals, recommended next steps, and evidence summary.
+A small Next.js app that renders a verification result card for a suspicious claim. It simulates a short loading state and then shows the verdict, risk signals, recommended next steps, and evidence summary.
 
 ## What It Shows
 
